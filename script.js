@@ -1,4 +1,4 @@
-const fechaSorpresa = new Date("2026-08-14T20:30:00").getTime();
+const fechaSorpresa = new Date("2026-08-14T12:00:00").getTime();
 
 const surprise = document.getElementById("surprise");
 const surpriseButton = document.getElementById("surpriseButton");
