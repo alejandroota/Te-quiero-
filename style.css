@@ -81,3 +81,10 @@ h1{
     50%{transform:scale(1.15);}
     100%{transform:scale(1);}
     }
+ff#letter img {
+    display: block;
+    width: 90%;
+    max-width: 500px;
+    height: auto;
+    margin: 20px auto;
+}
