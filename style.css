@@ -81,10 +81,10 @@ h1{
     50%{transform:scale(1.15);}
     100%{transform:scale(1);}
     }
-ff#letter img {
-    display: block;
-    width: 55%;
-    max-width: 320px;
-    height: auto;
-    margin: 20px auto;
+ffimg[src*="carta"] {
+    display: block !important;
+    width: 55% !important;
+    max-width: 280px !important;
+    height: auto !important;
+    margin: 20px auto !important;
 }
