@@ -83,8 +83,8 @@ h1{
     }
 ff#letter img {
     display: block;
-    width: 90%;
-    max-width: 500px;
+    width: 55%;
+    max-width: 320px;
     height: auto;
     margin: 20px auto;
 }
